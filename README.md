@@ -2,4 +2,4 @@
 
 Reference:
 
-Ting-Ting Su, Wu-Dong Xi, Xing-Xing Xing, Chang-Dong Wang. MCRec: Multi-channel Gated Gifts Recommendation, ICDM2023
+Ting-Ting Su, Wu-Dong Xi, Xing-Xing Xing, Chang-Dong Wang. "MCRec: Multi-channel Gated Gifts Recommendation", ICDM2023
